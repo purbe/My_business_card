@@ -1,6 +1,6 @@
 import React from "react";
 import './com.css';
-import photo from "./photo.jpg"
+import photo from "./logo192.png"
 
 
 export default function aboutMain(){
